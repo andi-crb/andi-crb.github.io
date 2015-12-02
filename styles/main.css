@@ -2,25 +2,25 @@ body {
 	background-color: #3FB0AC;
 }
 h1 {
-	color: #173e43;
+	color: #173E43;
 	align: center;
 	text-align: center;
 	width: 20em;
-	border: 4px solid #173e43;
+	border: 4px solid #173E43;
 	border-radius: 25px;
 	padding: 25px;
-	background-color: #fae596;
+	background-color: #FAE596;
 }
 article {
-	color: #173e43;
-	background-color: ##dddfd4;
+	color: #173E43;
+	background-color: ##DDDFD4;
 	border: 4px solid #173e43;
 	border-radius: 25px;
 	padding: 25px;
 	width: 50em;
 }
 img {
-	border: 4px solid #173e43;
+	border: 4px solid #173E43;
 	border-radius: 25px;
 }
 }
