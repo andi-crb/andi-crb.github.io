@@ -1,13 +1,15 @@
 body {
-	background-color: #F9E7E7;
+	background-color: #9D8DF1;
 }
 h1 {
-	color: #F9E7E7;
+	color: #D9DBF1;
 	text-align: center;
-	background-color: #592941
+	background-color: #7A306C
 }
+p body {
+	background-color: #D9DBF1;
 a:link {
-	color: #B3001B;
+	color: #114B5F;
 }
 
 a:visited {
