@@ -4,7 +4,7 @@ body {
 h1 {
 	color: #D9DBF1;
 	text-align: center;
-
+	width: 20em;
 	border: 2px solid #73AD21;
 	border-radius: 25px;
 	padding: 25px;
@@ -15,6 +15,7 @@ article {
 	border: 2px solid #73AD21;
 	border-radius: 25px;
 	padding: 25px;
+	width: 30em;
 }
 a:link {
 	color: #114B5F;
