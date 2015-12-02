@@ -4,10 +4,11 @@ body {
 h1 {
 	color: #D9DBF1;
 	text-align: center;
-	background-color: #7A306C
+
 	border: 2px solid #73AD21;
 	border-radius: 25px;
 	padding: 25px;
+	background-color: #7A306C
 }
 article {
 	background-color: #D9DBF1;
