@@ -27,17 +27,27 @@ article {
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     font-size: 100%;
 }
-nav {
-	color: #FAE596;
-	background-color: #173e43;
-	border: 4px solid #173e43;
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #173e43;
+    border: 4px solid #173E43;
 	border-radius: 25px;
 	padding: 25px;
-	width: 50em;
-	margin-left: auto ;
-  margin-right: auto ;
-    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-    font-size: 120%;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #FAE596;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
 }
 img {
 	border: 4px solid #173E43;
