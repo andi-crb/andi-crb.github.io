@@ -32,14 +32,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #173e43;
-    border: 4px solid #173E43;
-	border-radius: 25px;
-	padding: 5px;
-	height: 4em;
-    width: 30em;
-    	margin-left: auto ;
-  margin-right: auto ;
+    background-color: #333;
 }
 
 li {
@@ -48,10 +41,10 @@ li {
 
 li a {
     display: block;
-    color: #FAE596;
+    color: white;
     text-align: center;
+    padding: 14px 16px;
     text-decoration: none;
-
 }
 img {
 	border: 4px solid #173E43;
