@@ -32,12 +32,12 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
-        border-radius: 25px;
+    background-color: #173e43;
 }
 
 li {
     float: left;
+    border-right: 1px solid #FAE596;
 }
 
 li a {
@@ -47,13 +47,6 @@ li a {
     padding: 14px 16px;
     text-decoration: none;
 
-}
-li {
-    border-right: 1px solid #bbb;
-}
-
-li:last-child {
-    border-right: none;
 }
 
 img {
