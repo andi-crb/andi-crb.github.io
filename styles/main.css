@@ -35,6 +35,15 @@ ul {
     background-color: #173e43;
 }
 
+a:link {
+	color: #017a76;
+}
+
+a:visited {
+	color: #3FB0AC;
+}
+
+
 li {
     float: left;
     border-right: 1px solid #FAE596;
@@ -46,17 +55,11 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-
+    color: #3FB0AC;
 }
 
 img {
-	border: 4px solid #173E43;
+	border: 4px solid #3FB0AC;
 	border-radius: 25px;
 }
-a:link {
-	color: #017a76;
-}
 
-a:visited {
-	color: #3FB0AC;
-}
