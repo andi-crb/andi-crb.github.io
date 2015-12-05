@@ -27,7 +27,7 @@ article {
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     font-size: 100%;
 }
-nav.ul {
+nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -44,12 +44,12 @@ a:visited {
 }
 
 
-nav.li {
+nav li {
     float: left;
     border-right: 1px solid #3FB0AC;
 }
 
-nav.li a:link {
+nav li a:link {
     display: block;
     text-align: center;
     padding: 14px 16px;
@@ -57,7 +57,7 @@ nav.li a:link {
     color: #3FB0AC;
 }
 
-nav.li a:visited {
+nav li a:visited {
     color: #DDDFD4;
 }
 
@@ -66,14 +66,14 @@ img {
 	border-radius: 25px;
 }
 
-li input {
+article li input {
 	display: none;
 }
 
-li.edit span {
+article li.edit span {
 	display: none;
 }
 
-li.edit input {
+article li.edit input {
 	display: initial;
 }
