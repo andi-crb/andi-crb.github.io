@@ -49,9 +49,8 @@ li {
     border-right: 1px solid #3FB0AC;
 }
 
-li a {
+li a:link {
     display: block;
-    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
