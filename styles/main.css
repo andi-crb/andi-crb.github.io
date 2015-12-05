@@ -49,7 +49,7 @@ li {
     border-right: 1px solid #3FB0AC;
 }
 
-li a:link {
+li a {
     display: block;
     text-align: center;
     padding: 14px 16px;
