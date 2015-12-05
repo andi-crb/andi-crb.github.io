@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Andi Buchanan</title>
+    <meta charset="UTF-8">
+    <link href="/styles/main.css" rel="stylesheet" type="text/css">
+<nav>
+    <ul>
+    <li><a href="/../index.html">Home</a>
+    <li><a href="c4-reflection-blog">Reflection</a></li>
+    <li><a href="c4-time-and-habits-blog">Time and Habits</a></li>
+    <li><a href="/../projects/to-do.html">To Do List</a>
+    </ul>
+    </nav>
+  </head>
+  
+  <body>
+    <h1>Andi Buchanan</h1>
+    
+    <article>
+    <h2>To Do List</h2>
+    <ul id="checklist">
+    <li>
+      <span>Oranges</span>
+      <input value="Oranges" />
+    </li>
+    <li>
+      <span>Bananas</span>
+      <input value="Bananas" />
+    </li>
+    <li>
+      <span>Apples</span>
+      <input value="Apples" />
+    </li>
+    <script>
+    var checklist = document.getElementById("checklist");
+    var items = checklist.querySelectorAll("li");
+    for (var i = 0; i < items.length; i++) {
+      items[i].addEventListener("click", editItem)
+    }
+
+    function editItem() {
+      this.className = "edit";
+    }
+    </script>
+  </article>
+  </body>
+</html>
