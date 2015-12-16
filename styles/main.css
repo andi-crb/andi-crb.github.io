@@ -8,7 +8,7 @@ nav {
   background-color: #3B3738;
 }
 
-nav li {
+nav ul {
   float: left;
   border-right: 1px solid #FDF3E7;
   display: block;
@@ -28,7 +28,6 @@ article {
   margin: 10px;
   border-width: 5px;
   border-color: #3B3738;
-  padding: 10px;
 }
 
 aside {
