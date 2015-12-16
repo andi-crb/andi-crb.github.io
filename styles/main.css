@@ -9,14 +9,15 @@ nav {
 }
 
 nav ul {
-  border-right: 1px solid #FDF3E7;
-  display: block;
-  text-align: center;
   background-color: #3B3738;
+    display: block;
 }
 
 nav li {
   float: left;
+   border-right: 1px solid #FDF3E7;
+
+  text-align: center;
 }
 
 h1 {
@@ -24,6 +25,7 @@ h1 {
   color: #FDF3E7;
   text-align: center;
   font-family: 'Cinzel Decorative', cursive;
+  font-size: 150%;
 }
 
 article {
@@ -32,10 +34,13 @@ article {
   padding: 10px;
   border-color: #3B3738;
   border: solid;
-  border-width: 10px;
+  border-width: 5px;
 }
 
 aside {
   background-color: #FDF3E7;
   margin: 10px;
+  border-color: #3B3738;
+  border: solid;
+  border-width: 5px;
 }
