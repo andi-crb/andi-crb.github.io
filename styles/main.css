@@ -7,9 +7,21 @@ nav {
   background-color: #3B3738;
 }
 
+nav li {
+  float: left;
+  border-right: 1px solid #3B3738;
+}
+
+nav li a:link {
+  display: block;
+  text-align: center;
+}
+
 h1 {
   background-color: #C63D0F;
   color: #FDF3E7;
+  height: 3em;
+  margin: 0;
 }
 
 article {
