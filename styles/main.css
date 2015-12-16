@@ -28,7 +28,6 @@ article {
   margin: 10px;
   border-width: 5px;
   border-color: #3B3738;
-  border-radius: 25px;
   padding: 10px;
 }
 
@@ -36,5 +35,4 @@ aside {
   background-color: #FDF3E7;
   margin: 10px;
   border: 5px #3B3738;
-  border-radius: 25px;
 }
