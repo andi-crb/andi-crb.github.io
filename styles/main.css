@@ -9,11 +9,14 @@ nav {
 }
 
 nav ul {
-  float: left;
   border-right: 1px solid #FDF3E7;
   display: block;
   text-align: center;
   background-color: #3B3738;
+}
+
+nav li {
+  float: left;
 }
 
 h1 {
@@ -26,12 +29,9 @@ h1 {
 article {
   background-color: #FDF3E7;
   margin: 10px;
-  border-width: 5px;
-  border-color: #3B3738;
 }
 
 aside {
   background-color: #FDF3E7;
   margin: 10px;
-  border: 5px #3B3738;
 }
