@@ -1,7 +1,21 @@
 body {
-    background-color: #7E8F7C;
+  background-color: #7E8F7C;
+  color: #3B3738;
 }
 
 nav {
   background-color: #3B3738;
+}
+
+h1 {
+  background-color: #C63D0F;
+  color: ##FDF3E7;
+}
+
+article {
+  background-color: #FDF3E7;
+}
+
+aside {
+  background-color: #FDF3E7;
 }
