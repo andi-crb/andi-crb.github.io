@@ -10,12 +10,13 @@ nav {
 
 nav ul {
   background-color: #3B3738;
-    display: block;
+  display: block;
 }
 
 nav li {
   border-right: 1px solid #FDF3E7;
   text-align: center;
+  float: left;
 }
 
 h1 {
