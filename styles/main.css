@@ -9,10 +9,7 @@ nav {
 
 nav li {
   float: left;
-  border-right: 1px solid #3B3738;
-}
-
-nav li a:link {
+  border-right: 1px solid #FDF3E7;
   display: block;
   text-align: center;
 }
