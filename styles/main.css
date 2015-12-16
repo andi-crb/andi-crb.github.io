@@ -9,6 +9,10 @@ nav {
   overflow:hidden;
 }
 
+nav.u-full-width {
+  width: 100%;
+  box-sizing: border-box; }
+
 nav ul li{
   background-color: #3B3738;
   display: block;
