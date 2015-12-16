@@ -14,9 +14,7 @@ nav ul {
 }
 
 nav li {
-  float: left;
-   border-right: 1px solid #FDF3E7;
-
+  border-right: 1px solid #FDF3E7;
   text-align: center;
 }
 
@@ -25,7 +23,7 @@ h1 {
   color: #FDF3E7;
   text-align: center;
   font-family: 'Cinzel Decorative', cursive;
-  font-size: 150%;
+  font-size: 100rem;
 }
 
 article {
