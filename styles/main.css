@@ -23,7 +23,7 @@ h1 {
   color: #FDF3E7;
   text-align: center;
   font-family: 'Cinzel Decorative', cursive;
-  font-size: 100rem;
+  font-size: 20rem;
 }
 
 article {
@@ -33,6 +33,7 @@ article {
   border-color: #3B3738;
   border: solid;
   border-width: 5px;
+  border-radius: 25px;
 }
 
 aside {
@@ -41,4 +42,5 @@ aside {
   border-color: #3B3738;
   border: solid;
   border-width: 5px;
+  border-right: 25px;
 }
