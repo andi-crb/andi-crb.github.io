@@ -8,12 +8,9 @@ nav {
   background-color: #3B3738;
 }
 
-nav ul {
+nav ul li{
   background-color: #3B3738;
   display: block;
-}
-
-nav li {
   border-right: 1px solid #FDF3E7;
   text-align: center;
   float: left;
