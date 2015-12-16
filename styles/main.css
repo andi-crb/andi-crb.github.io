@@ -6,6 +6,7 @@ body {
 
 nav {
   background-color: #3B3738;
+  overflow:hidden;
 }
 
 nav ul li{
