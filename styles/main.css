@@ -9,13 +9,17 @@ nav {
 
 h1 {
   background-color: #C63D0F;
-  color: ##FDF3E7;
+  color: #FDF3E7;
 }
 
 article {
   background-color: #FDF3E7;
+  margin: 10px;
+  border: 5px #3B3738;
 }
 
 aside {
   background-color: #FDF3E7;
+  margin: 10px;
+  border: 5px #3B3738;
 }
