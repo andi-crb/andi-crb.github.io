@@ -1,6 +1,7 @@
 body {
   background-color: #7E8F7C;
   color: #3B3738;
+  font-family: 'Amiri', serif;
 }
 
 nav {
@@ -19,6 +20,7 @@ h1 {
   color: #FDF3E7;
   height: 3em;
   margin: 0;
+  font-family: 'Cinzel Decorative', cursive;
 }
 
 article {
