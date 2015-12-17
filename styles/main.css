@@ -74,6 +74,7 @@ h1 {
   font-family: 'Cinzel Decorative', cursive;
   font-size: 10rem;
   text-transform: capitalize;
+  padding: 10px;
 }
 
 article {
