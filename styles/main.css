@@ -5,7 +5,6 @@ body {
 }
 
 nav {
-  background-color: #3B3738;
   overflow:hidden;
 }
 
@@ -19,7 +18,8 @@ nav ul li{
   border-right: 1px solid #FDF3E7;
   text-align: center;
   float: left;
-  padding-right: 15px;
+  padding: 15px;
+  font-size: 2rem;
 }
 
 h1 {
@@ -28,6 +28,7 @@ h1 {
   text-align: center;
   font-family: 'Cinzel Decorative', cursive;
   font-size: 10rem;
+  text-transform: capitalize;
 }
 
 article {
