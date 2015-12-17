@@ -12,6 +12,7 @@ a {
 
 nav {
   overflow:hidden;
+  background-color: #3B3738;
 }
 
 nav.u-full-width {
@@ -20,7 +21,6 @@ nav.u-full-width {
   
 nav ul{
   list-style: none;
-  background-color: #3B3738;
   text-align: center;
   padding: 0;
   margin: 0;
