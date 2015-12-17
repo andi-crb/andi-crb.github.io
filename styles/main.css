@@ -93,3 +93,12 @@ aside {
   border-width: 5px;
   border-radius: 25px;
 }
+
+img {
+  border: solid
+  margin: 10px;
+  border-color: #3B3738;
+  border: solid;
+  border-width: 5px;
+  border-radius: 25px;
+}
