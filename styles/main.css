@@ -1,7 +1,7 @@
 body {
   background-color: #C0CAAD;
   color: #3B3738;
-  font-family: 'Amiri', serif;
+  font-family: 'Cabin', Helvetica, Arial, sans-serif;
   font-size: 2em;
   margin: 0;
   padding: 0;
@@ -71,7 +71,7 @@ h1 {
   background-color: #C63D0F;
   color: #FDF3E7;
   text-align: center;
-  font-family: 'Cinzel Decorative', cursive;
+  font-family: 'Lobster', Georgia, Times, serif;
   font-size: 10rem;
   text-transform: capitalize;
   padding: 10px;
