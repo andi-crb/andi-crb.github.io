@@ -4,8 +4,13 @@ body {
   font-family: 'Amiri', serif;
 }
 
+li {
+  
+}
+
 nav {
   overflow:hidden;
+    background-color: #3B3738;
 }
 
 nav.u-full-width {
@@ -14,8 +19,8 @@ nav.u-full-width {
 
 nav ul li{
   background-color: #3B3738;
+  color: #FDF3E7;
   display: block;
-  border-right: 1px solid #FDF3E7;
   text-align: center;
   float: left;
   padding: 15px;
