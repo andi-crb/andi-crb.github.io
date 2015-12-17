@@ -51,6 +51,20 @@ nav a.active {
   cursor: default;
 }
 
+@media screen and (min-width: 600px) {
+  .nav li {
+    width: 120px;
+    border-bottom: none;
+    height: 50px;
+    line-height: 50px;
+    font-size: 1.4em;
+  }
+  .nav li {
+    display: inline-block;
+    margin-right: -4px;
+  }
+}
+
 h1 {
   background-color: #C63D0F;
   color: #FDF3E7;
