@@ -10,7 +10,6 @@ a {
 
 nav {
   overflow:hidden;
-    background-color: #3B3738;
 }
 
 nav.u-full-width {
@@ -25,6 +24,10 @@ nav ul li{
   float: left;
   padding: 15px;
   font-size: 2rem;
+}
+
+nav ul li.hover{
+  background-color: #415A77;
 }
 
 h1 {
