@@ -20,7 +20,6 @@ nav.u-full-width {
   
 nav ul {
   list-style: none;
-  background-color: #444;
   text-align: center;
   padding: 0;
   margin: 0;
@@ -30,24 +29,24 @@ nav li {
   font-size: 1.2em;
   line-height: 40px;
   height: 40px;
-  border-bottom: 1px solid #888;
+  border-bottom: 1px solid 3B3738;
   display: inline;
+  margin: 0px;
 }
  
 nav a {
   text-decoration: none;
-  color: #C0CAAD;
+  color: FDF3E7;
   display: block;
   transition: .3s background-color;
 }
  
 nav a:hover {
-  background-color: #005f5f;
+  background-color:415A77;
 }
  
 nav a.active {
-  background-color: #fff;
-  color: #444;
+  background-color: C63D0F;
   cursor: default;
 }
 
