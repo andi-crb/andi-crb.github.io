@@ -23,7 +23,6 @@ nav {
 nav.u-full-width {
   width: 100%;
   box-sizing: border-box;
-  position: fixed;
 }
   
 nav ul {
@@ -32,6 +31,7 @@ nav ul {
   padding: 0;
   margin: 0;
   background-color: #3B3738;
+  position: fixed;
 }
 nav li {
   font-family: 'Sintony', sans-serif;
