@@ -23,6 +23,7 @@ nav {
 nav.u-full-width {
   width: 100%;
   box-sizing: border-box;
+  position: fixed;
 }
   
 nav ul {
@@ -82,7 +83,6 @@ h1 {
   font-size: 10rem;
   text-transform: capitalize;
   padding: 10px;
-  position: fixed;
 }
 
 article {
