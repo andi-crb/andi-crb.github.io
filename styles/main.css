@@ -2,7 +2,7 @@ body {
   background-color: #C0CAAD;
   color: #3B3738;
   font-family: 'Cabin', Helvetica, Arial, sans-serif;
-  font-size: 2em;
+  font-size: 1.5em;
   margin: 0;
   padding: 0;
   line-height: 1.3;
@@ -22,7 +22,7 @@ nav.u-full-width {
   
 nav ul {
   list-style: none;
-  text-align: center;
+  text-align: left;
   padding: 0;
   margin: 0;
   background-color: #3B3738;
@@ -79,7 +79,7 @@ h1 {
 
 article {
   background-color: #FDF3E7;
-  margin: 10px;
+  margin: 20px;
   padding: 10px;
   border-color: #3B3738;
   border: solid;
@@ -89,7 +89,7 @@ article {
 
 aside {
   background-color: #FDF3E7;
-  margin: 10px;
+  margin: 20px;
   padding: 10px;
   border-color: #3B3738;
   border: solid;
