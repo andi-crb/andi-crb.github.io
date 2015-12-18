@@ -32,6 +32,7 @@ nav ul {
   padding: 0;
   margin: 0;
   background-color: #3B3738;
+  position: fixed;
 }
 nav li {
   font-family: 'Sintony', sans-serif;
