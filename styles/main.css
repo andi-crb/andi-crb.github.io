@@ -18,12 +18,11 @@ a {
 
 nav {
   overflow:hidden;
-  position: fixed;
-  width: 100%;
 }
 
 nav.u-full-width {
   width: 100%;
+  position: fixed;
   box-sizing: border-box;
 }
   
