@@ -76,6 +76,7 @@ h1 {
   background-color: #C63D0F;
   color: #FDF3E7;
   text-align: center;
+  width: 100%;
   font-family: 'Rufina', serif;
   font-size: 10rem;
   text-transform: capitalize;
@@ -101,6 +102,7 @@ aside {
   border: solid;
   border-width: 5px;
   border-radius: 25px;
+  position: fixed;
 }
 
 img {
