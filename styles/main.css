@@ -18,6 +18,8 @@ a {
 
 nav {
   overflow:hidden;
+  position: fixed;
+  width: 100%;
 }
 
 nav.u-full-width {
@@ -102,7 +104,6 @@ aside {
   border: solid;
   border-width: 5px;
   border-radius: 25px;
-  position: fixed;
 }
 
 img {
