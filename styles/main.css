@@ -19,10 +19,11 @@ a {
 nav {
   position: fixed;
   overflow:hidden;
+    width: 100%;
 }
 
 nav.u-full-width {
-  width: 100%;
+
   box-sizing: border-box;
 }
   
