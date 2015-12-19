@@ -17,6 +17,7 @@ a {
 }
 
 nav {
+  position: fixed;
   overflow:hidden;
 }
 
@@ -31,7 +32,6 @@ nav ul {
   padding: 0;
   margin: 0;
   background-color: #3B3738;
-  position: fixed;
 }
 nav li {
   font-family: 'Sintony', sans-serif;
@@ -41,7 +41,6 @@ nav li {
   border-bottom: 1px solid #3B3738;
   display: inline;
   margin: 0px;
-  position: fixed;
 }
  
 nav a {
